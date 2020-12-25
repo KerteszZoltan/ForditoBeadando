@@ -1,0 +1,13 @@
+E:\Egyetem\ForditoBead\ForditoBead\ForditoBead\bin\Debug\netcoreapp3.1\ForditoBead.exe
+E:\Egyetem\ForditoBead\ForditoBead\ForditoBead\bin\Debug\netcoreapp3.1\ForditoBead.deps.json
+E:\Egyetem\ForditoBead\ForditoBead\ForditoBead\bin\Debug\netcoreapp3.1\ForditoBead.runtimeconfig.json
+E:\Egyetem\ForditoBead\ForditoBead\ForditoBead\bin\Debug\netcoreapp3.1\ForditoBead.runtimeconfig.dev.json
+E:\Egyetem\ForditoBead\ForditoBead\ForditoBead\bin\Debug\netcoreapp3.1\ForditoBead.dll
+E:\Egyetem\ForditoBead\ForditoBead\ForditoBead\bin\Debug\netcoreapp3.1\ForditoBead.pdb
+E:\Egyetem\ForditoBead\ForditoBead\ForditoBead\obj\Debug\netcoreapp3.1\ForditoBead.csprojAssemblyReference.cache
+E:\Egyetem\ForditoBead\ForditoBead\ForditoBead\obj\Debug\netcoreapp3.1\ForditoBead.AssemblyInfoInputs.cache
+E:\Egyetem\ForditoBead\ForditoBead\ForditoBead\obj\Debug\netcoreapp3.1\ForditoBead.AssemblyInfo.cs
+E:\Egyetem\ForditoBead\ForditoBead\ForditoBead\obj\Debug\netcoreapp3.1\ForditoBead.csproj.CoreCompileInputs.cache
+E:\Egyetem\ForditoBead\ForditoBead\ForditoBead\obj\Debug\netcoreapp3.1\ForditoBead.dll
+E:\Egyetem\ForditoBead\ForditoBead\ForditoBead\obj\Debug\netcoreapp3.1\ForditoBead.pdb
+E:\Egyetem\ForditoBead\ForditoBead\ForditoBead\obj\Debug\netcoreapp3.1\ForditoBead.genruntimeconfig.cache
