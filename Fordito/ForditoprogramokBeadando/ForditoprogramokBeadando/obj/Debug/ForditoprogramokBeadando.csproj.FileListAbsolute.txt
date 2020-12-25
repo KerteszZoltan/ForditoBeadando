@@ -1,0 +1,7 @@
+C:\Users\Adam\Desktop\ForditoprogramokBeadando\ForditoprogramokBeadando\obj\Debug\ForditoprogramokBeadando.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\ForditoprogramokBeadando\ForditoprogramokBeadando\obj\Debug\ForditoprogramokBeadando.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\ForditoprogramokBeadando\ForditoprogramokBeadando\bin\Debug\ForditoprogramokBeadando.exe.config
+C:\Users\Adam\Desktop\ForditoprogramokBeadando\ForditoprogramokBeadando\bin\Debug\ForditoprogramokBeadando.exe
+C:\Users\Adam\Desktop\ForditoprogramokBeadando\ForditoprogramokBeadando\bin\Debug\ForditoprogramokBeadando.pdb
+C:\Users\Adam\Desktop\ForditoprogramokBeadando\ForditoprogramokBeadando\obj\Debug\ForditoprogramokBeadando.exe
+C:\Users\Adam\Desktop\ForditoprogramokBeadando\ForditoprogramokBeadando\obj\Debug\ForditoprogramokBeadando.pdb
